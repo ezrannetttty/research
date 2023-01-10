@@ -1,0 +1,2 @@
+# research
+Thinking in code
